@@ -4,9 +4,9 @@ Estimated q-values using DQN, a deep CNN with three convolutional layers and two
 Built a ‘replay buffer’ called ‘prioritized Replay’ to store past experiences (s, a, s’, r) to use it to train Neural Net
 
 Need to Install:
-Numpy
-Keras
-Tensorflow as keras uses backend tensorflow
+Numpy,
+Keras,
+Tensorflow as keras uses backend tensorflow and
 OpenAIgym[atari] 
 
 To learn:
